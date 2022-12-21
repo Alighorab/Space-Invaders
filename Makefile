@@ -9,4 +9,3 @@ clean:
 
 compiledb:
 	pio run -t compiledb
-	mv compile_commands.json .vim
